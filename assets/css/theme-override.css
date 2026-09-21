@@ -13,3 +13,12 @@
   /* 代码块背景原本是主题色的 5% 透明度，跟着一起换，否则会残留紫色调 */
   --global-code-bg-color: rgba(204, 35, 25, 0.05);
 }
+
+/* 首页姓名后的中文名：略小、略淡，与英文名区分但不抢视线 */
+.post-title .chinese-name {
+  margin-left: 0.4em;
+  font-size: 0.72em;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
