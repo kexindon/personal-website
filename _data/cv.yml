@@ -1,0 +1,118 @@
+cv:
+  name: Kexin Dong
+  label: PhD Student, MIT Biology
+  email: kexindong@mit.edu
+  location: Cambridge, MA
+  image: ""
+  summary: >-
+    PhD student in Biology at MIT and the Koch Institute for Integrative Cancer Research,
+    working on precision genome editing and the computational modeling of human genetic
+    variants in mice.
+
+  social_networks:
+    - network: GitHub
+      username: kexindon
+    - network: LinkedIn
+      username: kexin-dong
+
+  sections:
+    Education:
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA, US
+        url: https://biology.mit.edu/
+        area: Biology
+        studyType: PhD
+        start_date: 2024
+        end_date: present
+        highlights:
+          - MIT Presidential Fellow (2024–2025).
+          - Sánchez-Rivera Lab, Koch Institute for Integrative Cancer Research.
+
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA, US
+        area: Biology
+        studyType: Visiting Student
+        start_date: 2023
+        end_date: 2024
+
+      - institution: University of Chinese Academy of Sciences
+        location: Beijing, China
+        url: https://english.ucas.ac.cn/
+        area: Biology
+        studyType: BSc
+        start_date: 2020
+        end_date: 2024
+        highlights:
+          - Student commencement speaker.
+
+    Awards:
+      - title: MIT Presidential Fellowship
+        date: 2024
+        awarder: Massachusetts Institute of Technology
+        summary: Awarded to incoming graduate students of exceptional promise.
+
+      - title: Student Commencement Speaker
+        date: 2024
+        awarder: University of Chinese Academy of Sciences
+
+    Publications:
+      - title: Computational prediction of human genetic variants in the mouse genome
+        authors:
+          - Kexin Dong
+          - Samuel I. Gould
+          - Minghang Li
+          - Francisco J. Sánchez-Rivera
+        publisher: Nature Biotechnology
+        releaseDate: 2025-12-18
+        url: https://doi.org/10.1038/s41587-025-02925-0
+
+      - title: High-throughput evaluation of genetic variants with prime editing sensor libraries
+        authors:
+          - Samuel I. Gould
+          - Alexandra N. Wuest
+          - Kexin Dong
+          - et al.
+          - Francisco J. Sánchez-Rivera
+        publisher: Nature Biotechnology
+        releaseDate: 2024-03-12
+        url: https://doi.org/10.1038/s41587-024-02172-9
+
+      - title: Multiplexed in vivo base editing identifies functional gene-variant-context interactions
+        authors:
+          - Jonuelle Acosta
+          - Grace A. Johnson
+          - Samuel I. Gould
+          - Kexin Dong
+          - et al.
+          - Francisco J. Sánchez-Rivera
+        publisher: bioRxiv
+        releaseDate: 2025-02-25
+        url: https://doi.org/10.1101/2025.02.23.639770
+
+    Software:
+      - name: H2M
+        summary: >-
+          Python package and database for modeling human genetic variants in mice
+          (pip install bioh2m). Web portal at human2mouse.com.
+      - name: PEGG
+        summary: >-
+          Prime Editing Guide Generator, with silent bystander mutations
+          (pip install pegg).
+
+    Skills:
+      - name: Genome editing
+        keywords:
+          - Prime editing
+          - Base editing
+          - CRISPR screens
+          - Sensor library design
+      - name: Computational biology
+        keywords:
+          - Python
+          - NGS analysis
+          - Variant annotation
+          - Comparative genomics
+      - name: Languages
+        keywords:
+          - Chinese (native)
+          - English (fluent)
