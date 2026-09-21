@@ -1,13 +1,13 @@
 cv:
   name: Kexin Dong
-  label: PhD Student, MIT Biology
+  label: PhD Candidate, MIT Biology
   email: kexindonm@mit.edu
   location: Cambridge, MA
   image: ""
   summary: >-
-    PhD student in Biology at MIT and the Koch Institute for Integrative Cancer Research,
-    working on precision genome editing and the computational modeling of human genetic
-    variants in mice.
+    PhD candidate in Biology at MIT and the Koch Institute for Integrative Cancer
+    Research, working at the interface of cancer biology, precision genome editing
+    and computational genomics.
 
   social_networks:
     - network: GitHub
@@ -26,7 +26,7 @@ cv:
         end_date: present
         highlights:
           - MIT Presidential Fellow (2024–2025).
-          - Sánchez-Rivera Lab, Koch Institute for Integrative Cancer Research.
+          - Sánchez-Rivera Lab and Hemann Lab, Koch Institute for Integrative Cancer Research.
 
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA, US

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photography
+title: Photography
 permalink: /photography/
 description: >-
   Photographs made away from the lab. Shot on a FUJIFILM X-S20 with XF 16-50mm

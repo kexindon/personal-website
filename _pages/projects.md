@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Tools and research projects.
 nav: true
 nav_order: 3
-display_categories: [research]
+display_categories: [Research]
 horizontal: false
 ---
 

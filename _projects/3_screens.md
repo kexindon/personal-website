@@ -3,7 +3,7 @@ layout: page
 title: Variant screens
 description: high-throughput sensor screens for genetic variants
 importance: 3
-category: research
+category: Research
 related_publications: true
 ---
 

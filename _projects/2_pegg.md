@@ -3,7 +3,7 @@ layout: page
 title: PEGG
 description: prime editing guide generator
 importance: 2
-category: research
+category: Research
 ---
 
 **PEGG (Prime Editing Guide Generator)** designs prime editing guide RNAs (pegRNAs) at scale, including silent bystander mutations that improve editing efficiency and enable sequencing-based readout.
