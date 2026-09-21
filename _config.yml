@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kexin
 middle_name:
 last_name: Dong
+chinese_name: 董可昕 # 显示在首页姓名之后；留空则不显示
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

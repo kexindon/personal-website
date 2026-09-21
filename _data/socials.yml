@@ -1,10 +1,10 @@
 # Social media links and usernames, displayed in the order defined here.
 # Docs: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/cv.pdf
-email: kexindonm@mit.edu
+email: kexindon@mit.edu
 github_username: kexindon
 linkedin_username: kexin-dong
 # orcid_id: # TODO: add your ORCID iD (https://orcid.org)
-# scholar_userid: # TODO: add your Google Scholar ID
+scholar_userid: TzE_vO8AAAAJ
 # rss_icon: 不要启用 —— jekyll-socials 只检查 key 是否存在，
 #            写成 false 仍会显示图标，需要整行注释掉
