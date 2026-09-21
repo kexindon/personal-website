@@ -22,3 +22,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# 本地传图用，不发布也不提交
+_incoming/
