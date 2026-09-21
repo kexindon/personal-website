@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*High-throughput evaluation of genetic variants with prime editing sensor libraries* is out in [Nature Biotechnology](https://doi.org/10.1038/s41587-024-02172-9).
+_High-throughput evaluation of genetic variants with prime editing sensor libraries_ is out in [Nature Biotechnology](https://doi.org/10.1038/s41587-024-02172-9).

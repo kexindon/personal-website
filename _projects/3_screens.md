@@ -11,4 +11,4 @@ Most cancer-associated mutations found in patients are **variants of uncertain s
 
 I work on pooled **sensor screens** that measure the functional impact of thousands of variants in parallel. Each guide RNA is paired with a synthetic copy of its own target site, so editing outcome and phenotype can be read out together from sequencing.
 
-This work spans prime editing sensor libraries *in vitro* and multiplexed base editing *in vivo*, and connects directly to H2M: the variants worth testing in a mouse are the ones H2M can faithfully model there.
+This work spans prime editing sensor libraries _in vitro_ and multiplexed base editing _in vivo_, and connects directly to H2M: the variants worth testing in a mouse are the ones H2M can faithfully model there.

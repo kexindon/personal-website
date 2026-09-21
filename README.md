@@ -6,16 +6,16 @@ GitHub Pages at **https://kexindong.com**.
 
 ## Editing content
 
-| What you want to change      | File                                        |
-| ---------------------------- | ------------------------------------------- |
-| Bio, portrait, home page     | `_pages/about.md`, `assets/img/prof_pic.jpg` |
-| Publications                 | `_bibliography/papers.bib`                  |
-| CV                           | `_data/cv.yml`                              |
-| News items                   | `_news/` (one file per item)                |
-| Projects                     | `_projects/`                                |
-| Photography                  | `_pages/photography.md`, `assets/img/photography/` |
-| Social links, email, CV PDF  | `_data/socials.yml`                         |
-| Site title, URL, feature flags | `_config.yml`                             |
+| What you want to change        | File                                               |
+| ------------------------------ | -------------------------------------------------- |
+| Bio, portrait, home page       | `_pages/about.md`, `assets/img/prof_pic.jpg`       |
+| Publications                   | `_bibliography/papers.bib`                         |
+| CV                             | `_data/cv.yml`                                     |
+| News items                     | `_news/` (one file per item)                       |
+| Projects                       | `_projects/`                                       |
+| Photography                    | `_pages/photography.md`, `assets/img/photography/` |
+| Social links, email, CV PDF    | `_data/socials.yml`                                |
+| Site title, URL, feature flags | `_config.yml`                                      |
 
 A paper shows on the home page when its BibTeX entry has `selected={true}`.
 
