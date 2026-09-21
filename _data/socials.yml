@@ -6,4 +6,5 @@ github_username: kexindon
 linkedin_username: kexin-dong
 # orcid_id: # TODO: add your ORCID iD (https://orcid.org)
 # scholar_userid: # TODO: add your Google Scholar ID
-rss_icon: false
+# rss_icon: 不要启用 —— jekyll-socials 只检查 key 是否存在，
+#            写成 false 仍会显示图标，需要整行注释掉
