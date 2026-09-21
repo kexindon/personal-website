@@ -34,4 +34,4 @@ My research sits at the interface of **cancer biology**, **precision genome edit
 
 Before MIT, I earned my Biology undergraduate degree at the University of Chinese Academy of Sciences, where I was the student commencement speaker.
 
-Outside the lab I am a [photographer](/photography/).
+Outside the lab, I'm a boulderer, runner, and [photographer](/photography/).
