@@ -1,0 +1,15 @@
+/* 主题色覆盖
+ *
+ * 只改浅色模式。深色模式（html[data-theme="dark"]）不在这里声明，
+ * 所以仍然使用主题自带的青色 #2698ba。
+ *
+ * 主题默认的浅色强调色是紫红 #b509ac，这里换成 #cc2319。
+ * 升级 al_folio_core 时本文件不受影响。
+ */
+
+:root {
+  --global-theme-color: #cc2319;
+  --global-hover-color: #cc2319;
+  /* 代码块背景原本是主题色的 5% 透明度，跟着一起换，否则会残留紫色调 */
+  --global-code-bg-color: rgba(204, 35, 25, 0.05);
+}
