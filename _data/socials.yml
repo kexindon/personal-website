@@ -1,6 +1,6 @@
 # Social media links and usernames, displayed in the order defined here.
 # Docs: https://github.com/george-gca/jekyll-socials
-cv_pdf: # e.g. cv.pdf -- add the file to assets/pdf/ and put the filename here
+# cv_pdf: cv.pdf # uncomment once a CV PDF exists in assets/pdf/ (an empty value crashes jekyll-socials)
 email: kexindong@mit.edu # TODO: confirm preferred contact address
 github_username: kexindon
 linkedin_username: kexin-dong
