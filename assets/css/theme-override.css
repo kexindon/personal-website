@@ -45,3 +45,36 @@
   border: none !important;
   background-color: transparent;
 }
+
+/* CV 页：日期标签左对齐。
+   日期列带 .text-center，徽章又有内联 min-width:75px，
+   两者叠加使标签在列内居中。这里统一改为左对齐。 */
+.date-column,
+.date-column .table-cv,
+.date-column .table-cv td {
+  text-align: left !important;
+}
+
+.date-column .badge {
+  min-width: 0 !important;
+  display: inline-block;
+  text-align: left;
+}
+
+/* 项目卡片封面图：四周留白，不再顶天立地。
+   三张图长宽比不一（H2M 与 PEGG 近方形，HSC 为宽幅），
+   用 object-fit: contain 让整图完整显示而不被裁切，
+   并统一高度，使卡片排列整齐。 */
+.card .card-img-top {
+  padding: 1rem;
+  box-sizing: border-box;
+  height: 190px;
+  object-fit: contain;
+  background-color: var(--global-card-bg-color);
+}
+
+@media (max-width: 576px) {
+  .card .card-img-top {
+    height: 160px;
+  }
+}
