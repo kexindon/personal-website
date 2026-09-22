@@ -82,3 +82,6 @@
    同样的 padding 下它会比另外两张近方形的 logo 小很多。
    单独给它更小的留白，使三张卡片的视觉分量接近。
    用 src 属性选择器锁定文件，不依赖卡片顺序。 */
+.card .card-img-top[src$="leukemia.jpg"] {
+  padding: 10%;
+}
