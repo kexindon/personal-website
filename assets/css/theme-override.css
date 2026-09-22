@@ -24,3 +24,24 @@
   color: var(--global-text-color);
   white-space: nowrap;
 }
+
+/* CV 页：去掉日期标签前的项目符号与上下灰线。
+   这个构建用的是 Tailwind，没有加载 Bootstrap 的 .list-group 规则，
+   所以 <ul class="list-group"> 会显示默认的圆点。 */
+.card-text.list-group,
+.card-text.list-group > .list-group-item {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* 日期徽章外面套了一层 <table class="table-cv">，
+   但它不带 .table 类，因而命中了 table:not(.table) td 的 border-top，
+   在标签上下各画出一条灰线。 */
+.table-cv,
+.table-cv td,
+.table-cv th,
+.table-cv tr {
+  border: none !important;
+  background-color: transparent;
+}
