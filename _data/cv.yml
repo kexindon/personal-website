@@ -46,10 +46,9 @@ cv:
           - Student commencement speaker.
 
     Awards:
-      - title: MIT Presidential Fellowship
+      - title: President Fellow
         date: 2024
         awarder: Massachusetts Institute of Technology
-        summary: Awarded to incoming graduate students of exceptional promise.
 
       - title: Student Commencement Speaker
         date: 2024
@@ -104,8 +103,7 @@ cv:
         keywords:
           - Prime editing
           - Base editing
-          - CRISPR screens
-          - Sensor library design
+          - High-throughput CRISPR screen and analysis
       - name: Computational biology
         keywords:
           - Python
