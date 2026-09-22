@@ -32,6 +32,6 @@ I am a PhD candidate in Biology at MIT, working in the [Sánchez-Rivera Lab](htt
 
 My research sits at the interface of **cancer biology**, **precision genome editing** and **computational genomics**. I developed [H2M](https://human2mouse.com/), a framework that predicts how human genetic variants can be modeled in the mouse genome — pairing each human variant with a murine equivalent that mirrors its sequence and functional consequences, and providing ready-to-use base- and prime-editing libraries. I also work on high-throughput prime editing and base editing sensor screens that measure the functional impact of thousands of cancer-associated variants at once. Currently, I'm studying how genetic events influence early leukemia evolution.
 
-Before MIT, I earned my Biology undergraduate degree at the University of Chinese Academy of Sciences, where I was the student commencement speaker.
+Before MIT, I earned my Biology undergraduate degree at the University of Chinese Academy of Sciences.
 
 Outside the lab, I'm a boulderer, runner, and [photographer](/photography/).
