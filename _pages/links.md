@@ -2,7 +2,6 @@
 layout: page
 title: Links
 permalink: /links/
-description: Tools, labs, and profiles, in one place.
 nav: true
 nav_order: 6
 ---

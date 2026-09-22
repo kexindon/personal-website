@@ -88,16 +88,6 @@ cv:
         releaseDate: 2025-02-25
         url: https://doi.org/10.1101/2025.02.23.639770
 
-    Software:
-      - name: H2M
-        summary: >-
-          Python package and database for modeling human genetic variants in mice
-          (pip install bioh2m). Web portal at human2mouse.com.
-      - name: PEGG
-        summary: >-
-          Prime Editing Guide Generator, with silent bystander mutations
-          (pip install pegg).
-
     Skills:
       - name: Genome editing
         keywords:

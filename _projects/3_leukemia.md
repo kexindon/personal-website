@@ -2,6 +2,7 @@
 layout: page
 title: Early leukemia evolution
 description: how founder mutations shape what comes next
+img: assets/img/projects/leukemia.jpg
 importance: 3
 category: Research
 ---
