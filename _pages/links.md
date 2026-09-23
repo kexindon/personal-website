@@ -20,5 +20,6 @@ nav_order: 6
 ## Profiles
 
 - **[Google Scholar](https://scholar.google.com/citations?user=TzE_vO8AAAAJ)**
+- **[ORCID](https://orcid.org/0000-0003-1379-3890)**
 - **[GitHub](https://github.com/kexindon)**
 - **[LinkedIn](https://www.linkedin.com/in/kexin-dong)**
