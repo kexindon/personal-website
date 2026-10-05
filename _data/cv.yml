@@ -46,6 +46,11 @@ cv:
           - Student commencement speaker.
 
     Awards:
+      - title: MIT Prize for Open Data
+        date: 2026
+        awarder: MIT School of Science and MIT Libraries
+        url: https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/
+
       - title: President Fellow
         date: 2024
         awarder: Massachusetts Institute of Technology
