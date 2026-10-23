@@ -160,6 +160,18 @@ photos:
     alt: "Photograph by Kexin Dong"
   - image: assets/img/photography/0076.jpg
     alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0077.jpg
+    alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0078.jpg
+    alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0079.jpg
+    alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0080.jpg
+    alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0081.jpg
+    alt: "Photograph by Kexin Dong"
+  - image: assets/img/photography/0082.jpg
+    alt: "Photograph by Kexin Dong"
 ---
 
 <div class="row">
