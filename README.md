@@ -42,7 +42,10 @@ Resize before committing — do not commit full-resolution camera files:
 
     sips -Z 1600 -s format jpeg -s formatOptions 72 IN.jpeg --out assets/img/photography/OUT.jpg
 
-Then add an entry to the `photos:` list in `_pages/photography.md`.
+Then add an entry to the `photos:` list in `_pages/photography.md`, with the
+photo's `width` and `height` as it displays (after EXIF rotation — some files
+are stored sideways with an orientation tag). The page lays photos out in
+equal-height rows sized by these numbers, so a wrong pair makes a row uneven.
 
 ## Predecessor
 

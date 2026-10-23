@@ -85,3 +85,38 @@
 .card .card-img-top[src$="leukemia.jpg"] {
   padding: 10%;
 }
+
+/* 摄影页：等高行排版（justified rows）。
+   每张图的 flex-grow 与 flex-basis 都与宽高比成正比，
+   所以同一行里的图拉伸后高度一致，宽度按比例分配：
+   横图（3:2）约是竖图（2:3）的 2.25 倍宽，视觉上占两列，且不裁切。
+   宽高比由 _pages/photography.md 里每张图的 width/height 算出。
+   ::after 占位吸收最后一行的剩余空间，避免末行被拉得过大。 */
+.photo-grid {
+  --photo-row-height: 240px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.photo-grid::after {
+  content: "";
+  flex-grow: 10;
+}
+
+.photo-grid-item figure {
+  margin: 0;
+}
+
+.photo-grid-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 576px) {
+  .photo-grid {
+    --photo-row-height: 160px;
+    gap: 0.5rem;
+  }
+}
